@@ -6,18 +6,27 @@
 ## a)
 
 ### Bash
-Bash on asennettuna linuxille automaattisesti, koska bash on, miten linuxin komentorivi toimii. Lähdin kokeilemaan ihan mututuntumalla kirjoittamalla ensiksi tekstitiedoston, jossa luki vain `Hei maailma`.
+Bash on asennettuna linuxille automaattisesti, koska bash on, miten linuxin komentorivi toimii. Lähdin kokeilemaan ihan mututuntumalla kirjoittamalla ensiksi tekstitiedoston.
+
+    micro skripte.sh
+    Hei Maailma!
 
 ![image](https://user-images.githubusercontent.com/112503770/223875277-b6cc2919-f625-4655-8572-917035bd02c9.png)
 
-Seuraavaksi kokeilin ajaa luotua skripte.sh tiedostoa, mutta sain virheilmoituksen. Tein nopeat korjaukset kuva alempana. Koko prosessi näkyy kuvassa 3.
+Seuraavaksi kokeilin ajaa luotua skripte.sh tiedostoa, mutta sain virheilmoituksen ks. kuva 3. Tein korjaukset tekstitiedostoon.
+
+    micro skripte.sh
+    echo "Hei Maailma!"
 
 ![image](https://user-images.githubusercontent.com/112503770/223875438-dd935b5b-66e2-4113-b951-12b99fe4be69.png)
 
-![image](https://user-images.githubusercontent.com/112503770/223875508-42eaf2fb-71d2-4a4f-ae7f-afbee62c76cc.png)
+Koko prosessi:
+
+![image](https://user-images.githubusercontent.com/112503770/223876209-33cf5363-406c-46fd-b850-2fa313179554.png)
+
+### Python
 
 
-### Pyhton
 
 ### 
 
