@@ -47,8 +47,6 @@ Kokeilin ajaa tiedoston komennolla `python3 skripteri.py`.
 
     sudo apt-get install ruby-full
     
-![image](https://user-images.githubusercontent.com/112503770/223878737-d261497a-e570-4543-b855-599322eef6ff.png)
-
 Kirjoitetaan ruby tiedosto microlla. Meni hetki etsiessä miten kirjoitetaan `\` `altgr` + `+` suomalaisella näppäimistöllä. Jos \n jää pois niin rivinvaihto jää pois. 
 
     micro skripperino.rb
