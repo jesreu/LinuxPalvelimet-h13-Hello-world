@@ -44,10 +44,11 @@ Kokeilin ajaa tiedoston komennolla `python3 skripteri.py`.
 ![image](https://user-images.githubusercontent.com/112503770/223877449-06260e71-4fe3-4ec9-929d-cd0276858818.png)
 
 ### Ruby
+Asennetaan ruby ohjelmointi kieli komenolla:
 
     sudo apt-get install ruby-full
     
-Kirjoitetaan ruby tiedosto microlla. Meni hetki etsiessä miten kirjoitetaan `\` `altgr` + `+` suomalaisella näppäimistöllä. Jos \n jää pois niin rivinvaihto jää pois. 
+Kirjoitetaan ruby tiedosto microlla. Meni hetki etsiessä miten kirjoitetaan `\` `altgr` + `+` suomalaisella näppäimistöllä. Jos `\n` unohtuu niin rivinvaihto jää pois. 
 
     micro skripperino.rb
 
