@@ -39,7 +39,7 @@ Lunttasin tässä vaiheessa Teron sivuilta oikeata syntaksia: `print("Hello Tero
 
 ![image](https://user-images.githubusercontent.com/112503770/223877282-3c75dd50-a023-47e9-b59f-a67e0dc39f3c.png)
 
-Kokeilin ajaa tiedoston komennolla `pyhton3 skripteri.py`.
+Kokeilin ajaa tiedoston komennolla `python3 skripteri.py`.
 
 ![image](https://user-images.githubusercontent.com/112503770/223877449-06260e71-4fe3-4ec9-929d-cd0276858818.png)
 
