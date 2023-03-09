@@ -48,7 +48,7 @@ Asennetaan ruby ohjelmointi kieli komenolla:
 
     sudo apt-get install ruby-full
     
-Kirjoitetaan ruby tiedosto microlla. Meni hetki etsiessä miten kirjoitetaan `\` merkki. Sen voi kirjoittaa painamalla `altgr` + `+` suomalaisella näppäimistöllä. Jos `\n` unohtuu niin rivinvaihto jää pois. 
+Kirjoitetaan ruby tiedosto microlla. Meni hetki etsiessä miten kirjoitetaan `\` merkki. Sen voi kirjoittaa painamalla `altgr` ja `+` suomalaisella näppäimistöllä. Jos `\n` unohtuu niin rivinvaihto jää pois. 
 
     micro skripperino.rb
 
