@@ -20,7 +20,7 @@ Seuraavaksi kokeilin ajaa luotua skripte.sh tiedostoa komennolla: `bash skripte.
 
 ![image](https://user-images.githubusercontent.com/112503770/223875438-dd935b5b-66e2-4113-b951-12b99fe4be69.png)
 
-Koko prosessi:
+Ajan vielä luodun skriptin komennolla: `bash skripte.sh`.
 
 ![image](https://user-images.githubusercontent.com/112503770/223876209-33cf5363-406c-46fd-b850-2fa313179554.png)
 
